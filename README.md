@@ -1,2 +1,2 @@
 # fizzbuzz-unittest
-An example of how python's unittest packagemay be used
+An example of how python's unittest package can be used
